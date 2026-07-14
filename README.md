@@ -55,7 +55,7 @@ Thank you for stopping by. 🌽
 ### Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Proyect1-The-Vibecoders-League-2.0-Platzi.git
+git clone https://github.com/UrielP-Dev/Proyect1-The-Vibecoders-League-2.0-Platzi.git
 cd Proyect1-The-Vibecoders-League-2.0-Platzi
 npm install
 npm run dev
